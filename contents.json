@@ -1,0 +1,537 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.ikar0sdev.whatstickers.animgenshinimpact",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "01",
+      "name": "Klee & co.",
+      "publisher": "Seseren",
+      "tray_image_file": "https://ikarosdev.com/Stickers/01/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+	  "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/01.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/02.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/03.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/04.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/05.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/06.webp",
+          "emojis": [
+            "👋"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/07.webp",
+          "emojis": [
+            "🤕"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/08.webp",
+          "emojis": [
+            "😊"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/09.webp",
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/10.webp",
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/11.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/12.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/13.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/14.webp",
+          "emojis": [
+            "😳"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/16.webp",
+          "emojis": [
+            "😲"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/18.webp",
+          "emojis": [
+            "🍷"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/19.webp",
+          "emojis": [
+            "😮"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/20.webp",
+          "emojis": [
+            "😷"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/21.webp",
+          "emojis": [
+            "💃"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/22.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/23.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/24.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/25.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/26.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/27.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/28.webp",
+          "emojis": [
+            "😣"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/29.webp",
+          "emojis": [
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/01/30.webp",
+          "emojis": [
+            "🔍"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "02",
+      "name": "Paimon & co.",
+      "publisher": "Seseren",
+      "tray_image_file": "https://ikarosdev.com/Stickers/02/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+	  "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/01.webp",
+          "emojis": [
+            "😯"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/03.webp",
+          "emojis": [
+            "😮"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/04.webp",
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/05.webp",
+          "emojis": [
+            "👌"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/07.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/08.webp",
+          "emojis": [
+            "😮"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/09.webp",
+          "emojis": [
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/11.webp",
+          "emojis": [
+            "😋"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/12.webp",
+          "emojis": [
+            "😊"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/13.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/15.webp",
+          "emojis": [
+            "👌"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/16.webp",
+          "emojis": [
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/17.webp",
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/18.webp",
+          "emojis": [
+            "😧"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/19.webp",
+          "emojis": [
+            "😶"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/21.webp",
+          "emojis": [
+            "😪"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/22.webp",
+          "emojis": [
+            "😲"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/02/https://ikarosdev.com/Stickers/02/23.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "03",
+      "name": "Liyue & co.",
+      "publisher": "Seseren",
+      "tray_image_file": "https://ikarosdev.com/Stickers/03/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+	  "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/02.webp",
+          "emojis": [
+            "😴"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/03.webp",
+          "emojis": [
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/04.webp",
+          "emojis": [
+            "😫"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/05.webp",
+          "emojis": [
+            "🤩"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/06.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/08.webp",
+          "emojis": [
+            "😲"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/09.webp",
+          "emojis": [
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/11.webp",
+          "emojis": [
+            "⚡"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/12.webp",
+          "emojis": [
+            "❄"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/13.webp",
+          "emojis": [
+            "😢"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/14.webp",
+          "emojis": [
+            "😁"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/15.webp",
+          "emojis": [
+            "😶"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/19.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/22.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/23.webp",
+          "emojis": [
+            "🥵"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/24.webp",
+          "emojis": [
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/25.webp",
+          "emojis": [
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/26.webp",
+          "emojis": [
+            "🤩"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/27.webp",
+          "emojis": [
+            "😎"
+          ]
+        },
+        {
+          "image_file": "https://ikarosdev.com/Stickers/03/28.webp",
+          "emojis": [
+            "😴"
+          ]
+        }
+      ]
+    }
+  ]
+}
